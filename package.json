@@ -56,7 +56,7 @@
     "semver": "5.4.x",
     "semver-sort": "0.0.x",
     "sinon": "4.1.5",
-    "source-map-support": "0.5.x"
+    "source-map-support": "~0.5.5"
   },
   "dependencies": {
     "jsdom": "^9.12.0",
